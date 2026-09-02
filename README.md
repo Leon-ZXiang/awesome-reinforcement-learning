@@ -10,4 +10,5 @@ A curated list of high-quality resources for learning and practicing reinforceme
 
 ## Tutorial List
 
-1. [Hands-on Modern RL](https://walkinglabs.github.io/hands-on-modern-rl/preface/introduction)
+1. [Hands-on Modern RL](https://walkinglabs.github.io/hands-on-modern-rl/en/). This tutorial connects RL with LLMs.
+2. [Dive into Deep Learning](https://d2l.ai/). Deep Learning provides and essential foundation for deep RL.
