@@ -10,5 +10,6 @@ A curated list of high-quality resources for learning and practicing reinforceme
 
 ## Tutorial List
 
-1. [Hands-on Modern RL](https://walkinglabs.github.io/hands-on-modern-rl/en/). This tutorial connects RL with LLMs.
-2. [Dive into Deep Learning](https://d2l.ai/). Deep Learning provides and essential foundation for deep RL.
+1.[Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning). This book provides a mathematical but friendly introduction to the fundamental concepts, basic problems, and classic algorithms in RL.
+2. [Hands-on Modern RL](https://walkinglabs.github.io/hands-on-modern-rl/en/). This tutorial connects RL with LLMs.
+3. [Dive into Deep Learning](https://d2l.ai/). Deep Learning provides essential foundation for deep RL.
